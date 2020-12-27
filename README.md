@@ -1,6 +1,6 @@
 ## COMP 410: Data Structures
 
-This repository includes my coursework from COMP 401 at UNC-Chapel Hill taught by Paul Stotts which focuses on the analysis of data structures and associated algorithms.
+This repository includes my coursework from COMP 401 at UNC-Chapel Hill taught by Paul Stotts, focusing on the analysis of data structures and associated algorithms.
 
 Class topics included: Abstract data types, lists, stacks, queues, trees, and graphs, sorting, searching, and hashing.
 
